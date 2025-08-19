@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alana Sena
+# 👩🏻‍💻 Alana Oliveira
 
 **`Desenvolvedora FullStack`**
 
