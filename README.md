@@ -104,8 +104,7 @@ Atualmente, estou cursando o 6º semestre de Engenharia de Software na Universid
 <br/>
 
 
-### 📊 Estatísticas
-
+### 📊 Estatísticas do GitHub
 
 <p>
   <img 
@@ -113,14 +112,25 @@ Atualmente, estou cursando o 6º semestre de Engenharia de Software na Universid
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=alanasena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanasena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=alanasena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=prs,issues&cache_seconds=60"
   />
-</p>   
-</p>   
+  <img 
+    align="left" 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanasena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
+  />
+</p>
+
+<p>&nbsp;</p> <!-- Espaço entre seções -->
+
+### 📅 Heatmap de Contribuições
+
+<p align="center">
+  <img 
+    alt="GitHub Contribution Graph" 
+    src="https://activity-graph.herokuapp.com/graph?username=alanasena&theme=react-dark&hide_border=true&area=true&cache_seconds=60"
+  />
+</p>
+
 
