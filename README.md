@@ -122,3 +122,5 @@ Atualmente, estou cursando o 6º semestre de Engenharia de Software na Universid
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanasena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>   
+</p>   
+
