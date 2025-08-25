@@ -122,15 +122,6 @@ Atualmente, estou cursando o 6º semestre de Engenharia de Software na Universid
   />
 </p>
 
-<p>&nbsp;</p> <!-- Espaço entre seções -->
-
-### 📅 Heatmap de Contribuições
-
-<p align="center">
-  <img 
-    alt="GitHub Contribution Graph" 
-    src="https://activity-graph.herokuapp.com/graph?username=alanasena&theme=react-dark&hide_border=true&area=true&cache_seconds=60"
-  />
-</p>
+<p>&nbsp;</p>
 
 
