@@ -1,26 +1,15 @@
 # 👩🏻‍💻 Alana Sena
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora de Software`**
 
-Me chamo Alana Oliveira de Sena e tenho 20 anos. 
-Atualmente, estou cursando o 6º semestre de Engenharia de Software na Universidade Federal do Ceará.
+Me chamo Alana Oliveira de Sena e sou estudante de Engenharia de Software na UFC (Campus Russas), com formatura prevista para dezembro de 2026.
+Gosto de trabalhar em todas as partes de um sistema: telas, back-end, banco de dados e testes.
 
- <p align="left">
-    <a href="https://github.com/alanasena?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/alanasena?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/alanasena?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total sde estrelas no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/alanasena?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-   </p>
+
+## 💼 Onde estou trabalhando
+- **Kisaude** — sistema de gestão para clínicas. Trabalho no front-end, UX, testes e um pouco de back-end.
+- **StudyLab (UFC)** — plataforma educacional para alunos e professores. Trabalho no front-end.
+
 
    ---
 
@@ -75,14 +64,43 @@ Atualmente, estou cursando o 6º semestre de Engenharia de Software na Universid
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
+<img
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
+   
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
+ />
+ 
+<img
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+ />
+          
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+ />
+                        
 <img 
     align="left" 
     alt="Python" 
@@ -104,24 +122,5 @@ Atualmente, estou cursando o 6º semestre de Engenharia de Software na Universid
 <br/>
 
 
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=alanasena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=prs,issues&cache_seconds=60"
-  />
-  <img 
-    align="left" 
-    alt="Top Linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanasena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
-  />
-</p>
-
-<p>&nbsp;</p>
 
 
