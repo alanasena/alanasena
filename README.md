@@ -75,8 +75,8 @@ Gosto de trabalhar em todas as partes de um sistema: telas, back-end, banco de d
    
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="dotnet" 
+    title="dotnet"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
@@ -84,8 +84,8 @@ Gosto de trabalhar em todas as partes de um sistema: telas, back-end, banco de d
  
 <img
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="postgresql" 
+    title="postgresql"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
@@ -94,8 +94,8 @@ Gosto de trabalhar em todas as partes de um sistema: telas, back-end, banco de d
 
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="figma" 
+    title="figmaC#"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
